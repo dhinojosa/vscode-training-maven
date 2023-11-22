@@ -15,5 +15,11 @@
         "src": false,
         "target": false
     },
-    "java.configuration.updateBuildConfiguration": "interactive"
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-17",
+            "path": "~/.sdkman/candidates/java/17.0.9-tem/"
+        }
+    ]
 }
