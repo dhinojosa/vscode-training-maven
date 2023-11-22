@@ -1,5 +1,5 @@
-# vscode-training-bazel
-Platform for using bazel in vscode training
+# vscode-training-maven
+Platform for using maven in vscode training
 
 ## Getting Started
 
