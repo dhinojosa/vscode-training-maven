@@ -21,5 +21,8 @@
             "name": "JavaSE-17",
             "path": "~/.sdkman/candidates/java/17.0.9-tem/"
         }
-    ]
+    ],
+    "[css]": {
+        "editor.fontSize": 16
+    }
 }
