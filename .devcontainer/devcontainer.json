@@ -1,0 +1,10 @@
+{
+    "name": "Java Dev Container",
+    "dockerFile": "Dockerfile",
+    "appPort": [8080],
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash"
+    },
+    "extensions": ["redhat.java", "vscjava.vscode-maven"],
+    "postCreateCommand": "mvn test"
+}
